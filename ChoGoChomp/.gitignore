@@ -2,7 +2,6 @@
 .vs/
 *.xcodeproj
 *.xcworkspace
-*.sln
 *.suo
 *.opensdf
 *.sdf
