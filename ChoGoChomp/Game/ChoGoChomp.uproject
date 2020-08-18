@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{51AD021E-4771-61DA-95F6-B6931C221894}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ChoGoChomp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SpatialGDK",
+			"Enabled": true
+		}
+	]
+}
